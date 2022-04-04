@@ -10,11 +10,11 @@ Industry and Businesses must know how much capital to allocate for energy consum
 
 ## Table of Contents 
 
-- [Installation](#installation)
-- [01_EDA.ipynb](#EDA)
-- [02_ARIMA.ipynb](#ARIMA)
-- [03_FbProphet](#Fb)
-- [04_data](#data)
+- Installation
+- EDA Notebook
+- ARIMA Notebook
+- Facebook Prophet Notebook
+- Data 
 
 ## Installation
 
@@ -49,7 +49,7 @@ In Anaconda Navigator:
 
 
 ---
-## 01_EDA.ipynb
+## 01 EDA Notebook
 
 This notebook contains Exploratory Analysis and contains the following index
 
@@ -63,7 +63,7 @@ This notebook contains Exploratory Analysis and contains the following index
 #### There are internal links that connects the notebooks between each other
 
 ---
-## 02_ARIMA.ipynb
+## 02 ARIMA Notebook
 
 #### In case the verbosity returns a some warning, please restart the notebook and run it again, then it will work well.
 
@@ -75,7 +75,7 @@ Time series modeled through SARIMAX from statsmodel on different type of series:
 - Logaritmic transformed data
 - Model Evaluations
 ---
-## 03_FbProphet.ipynb
+## 03 Facebook Prophet Notebook
 
 - Modeling
 - Evaluation
@@ -84,7 +84,7 @@ Time series modeled through SARIMAX from statsmodel on different type of series:
 
 - electric_power_stats.csv ---> complete dataset
 - can_50_08.csv --->decluttered dataset with only the variables of interest
-- prices.csv--> support dataset to calculate the cost of electricity
+
 ---
 
 ## Thanks
