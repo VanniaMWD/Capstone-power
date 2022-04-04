@@ -77,8 +77,8 @@ Time series modeled through SARIMAX from statsmodel on different type of series:
 ---
 ## 03_FbProphet.ipynb
 
--Modeling
--Evaluation
+- Modeling
+- Evaluation
 ---
 ## data directory
 
