@@ -10,10 +10,10 @@ Industry and Businesses must know how much capital to allocate for energy consum
 
 ## Table of Contents 
 
-- Installation
-- EDA Notebook
-- ARIMA Notebook
-- Facebook Prophet Notebook
+- [Installation](#installation)
+- [EDA Notebook](#EDA)
+- [ARIMA](#ARIMA)
+- [Facebook Prophet](#Facebook)
 - Data 
 - Environment
 
