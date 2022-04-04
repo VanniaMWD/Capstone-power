@@ -15,6 +15,7 @@ Industry and Businesses must know how much capital to allocate for energy consum
 - ARIMA Notebook
 - Facebook Prophet Notebook
 - Data 
+- Environment
 
 ## Installation
 
@@ -86,6 +87,10 @@ Time series modeled through SARIMAX from statsmodel on different type of series:
 - can_50_08.csv --->decluttered dataset with only the variables of interest
 
 ---
+
+## Environment
+
+- timeseries_vannia.txt
 
 ## Thanks
 
