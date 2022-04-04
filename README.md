@@ -92,6 +92,9 @@ Time series modeled through SARIMAX from statsmodel on different type of series:
 
 - timeseries_vannia.txt
 
+--- 
+
+
 ## Thanks
 
 To all Brainstation Education Team for all their help and patience:
